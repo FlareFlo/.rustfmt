@@ -1,1 +1,1 @@
-../cargo fmt -- --config-path ./rustfmt/rustfmt.toml
+cargo fmt -- --config-path ./rustfmt.toml
